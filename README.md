@@ -31,3 +31,11 @@
         <img align="center" src="https://symbols.getvecta.com/stencil_25/39_javascript.0ca26ec4ab.svg" height="40px" width="40px">
     </a>
 </p>
+
+
+        
+        
+<p align="center">
+    <img align="center" width="28px" height="28px" src="https://simpleicons.org/icons/gmail.svg">
+    <a href="https://www.google.com/intl/es/gmail/about/"><h3 align="center"><strong>adriangerpeval@gmail.com</strong></h3></a>
+</p>
