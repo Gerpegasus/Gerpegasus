@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="https://discord.com/invite/C2D3APVkWZ?fbclid=PAAaa96hHTjmboOilwku7cCgeEQq64bHQJtNSPJdYwAKDVwUq8sIxt_MrJ5IE" target="blank" style="margin-right: 4px">
-        <img align="center" src="https://simpleicons.org/icons/discord.svg" alt="A Pandilla do Chipiron" height="28px" width="28px">
+        <img align="center" src="https://img.icons8.com/?size=1x&id=SAZw8WuWnQea&format=png" alt="A Pandilla do Chipiron" height="28px" width="28px">
     <a href="https://www.instagram.com/ad_gerpe.gr/" target="blank" style="margin-right: 4px">
         <img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" alt="ad_gerpe.gr" height="28px" width="28px">
     </a>
