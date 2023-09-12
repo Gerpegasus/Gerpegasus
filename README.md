@@ -24,7 +24,7 @@
     <a href="https://www.python.org" target="blank" style="margin-right: 4px">
         <img align="center" src="https://www.svgrepo.com/show/374016/python.svg" height="40px" width="40px">
     <a href="https://www.w3.org/standards/webdesign/htmlcss" target="blank" style="margin-right: 4px">
-        <img align="center" src="https://symbols.getvecta.com/stencil_25/35_html5.d4d8050235.svg" height="40px" width="40px">
+        <img align="center" src="https://www.svgrepo.com/show/373669/html.svg" height="40px" width="40px">
     <a href="https://www.w3.org/standards/webdesign/htmlcss" target="blank" style="margin-right: 4px">
         <img align="center" src="https://symbols.getvecta.com/stencil_25/14_css3.d930bfb832.svg" height="40px" width="40px">
     <a href="https://www.javascript.com" target="blank" style="margin-right: 4px">
