@@ -15,7 +15,7 @@
 
 ### Más sobre mi...
 
-<p>Soy una persona <strong>creativa</strong> que siempre busca cosas que hacer y estoy investigando continuamente programas que crear, generalmente con lenguaje <strong>Python</strong>, ya que es al que estoy mas acostumbrado, tambien tengo experiencia con edición de fotos y videos con la suite de <strong>Adobe</strong> y me encanta trabajar en equipo y concocer a gente nueva.</p>
+<p>Soy una persona <strong>creativa</strong> que siempre busca cosas que hacer y estoy buscando continuamente proyectos en los que trabajar, generalmente con lenguaje <strong>Python</strong>, ya que es al que estoy mas acostumbrado, tambien tengo experiencia en edición de fotos y videos con la suite de <strong>Adobe</strong>. Me encanta trabajar en equipo, concocer a gente nueva y siempre estoy dispuesto a aprender cosas nuevas.</p>
 
 ### Actualmente estoy estudiando...
 
