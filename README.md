@@ -23,10 +23,8 @@
 <p align="center">
     <a href="https://www.python.org" target="blank" style="margin-right: 4px">
         <img align="center" src="https://www.svgrepo.com/show/374016/python.svg" height="40px" width="40px">
-    <a href="https://www.w3.org/standards/webdesign/htmlcss" target="blank" style="margin-right: 4px">
+    <a href="https://www.java.com/es/" target="blank" style="margin-right: 4px">
         <img align="center" src="https://www.svgrepo.com/show/452234/java.svg" height="40px" width="40px">
-    <a href="https://www.w3.org/standards/webdesign/htmlcss" target="blank" style="margin-right: 4px">
-        <img align="center" src="https://www.svgrepo.com/show/452185/css-3.svg" height="40px" width="40px">
     <a href="https://www.javascript.com" target="blank" style="margin-right: 4px">
         <img align="center" src="https://www.svgrepo.com/show/353925/javascript.svg" height="40px" width="40px">
     </a>
