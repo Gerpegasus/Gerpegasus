@@ -19,7 +19,7 @@
 
 ### Actualmente estoy estudiando...
 
-<p>Estoy estudiando un <strong>ciclo medio de SMR</strong>, pero a parte de eso tengo varios cursos en academias privadas de <strong>edición de foto,video; cursos de modelaje 3D; diseño grafíco;</strong> y actualmente estoy (a parte del ciclo) aprendiendo <strong>Python, Java y JavaScript.</strong></p>
+<p>Estoy estudiando un <strong>ciclo superior de DAW</strong>, pero a parte de eso tengo varios cursos en academias privadas de <strong>edición de foto,video, cursos de modelaje 3D, diseño grafíco</strong> y actualmente estoy, (a parte del ciclo) aprendiendo <strong>Python, Java y JavaScript.</strong></p>
 <p align="center">
     <a href="https://www.python.org" target="blank" style="margin-right: 4px">
         <img align="center" src="https://www.svgrepo.com/show/374016/python.svg" height="40px" width="40px">
